@@ -5,4 +5,4 @@
 A pokemon arena client
 
 ### Tags
-[Java, Application]
+[Java, Application, Spring Boot App Client]
